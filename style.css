@@ -17,5 +17,14 @@ nav{width: 200px;
 
 img{margin-right: 100px;}
 
-a:link{color:rgb(107, 36, 12) ;text-decoration:none ;}
+a:link{color:rgb(107, 36, 12) ;text-decoration: none ;}
+a:visited{color: chocolate;text-decoration: none ;}
+a:active{color: darkblue;text-decoration: none ;}
+a:hover{color: bisque;background-color: brown;text-decoration: underline;}
 
+article{width: 25%;
+float: left;
+border: thin solid;
+padding:30px 5px 0px 5px ;
+border-radius: 10px;
+margin: 0px 15px 30px 15px;}
